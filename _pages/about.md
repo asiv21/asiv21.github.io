@@ -3,6 +3,9 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 I am a 3rd year graduate student pursuing my PhD in Chemical Engineering at Columbia University in the City of New York. My interests include Dynamical Systems, Pattern Formation, Optimization, Data Analytics, Artificial Intelligence and Machine Learning.

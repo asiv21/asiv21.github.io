@@ -4,7 +4,6 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-{% include base_path %}
 
 Present: PhD, Department of Chemical Engineering, Columbia University
 

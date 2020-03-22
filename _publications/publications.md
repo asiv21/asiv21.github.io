@@ -1,4 +1,3 @@
-
 1. Chinta Sivadurgaprasad, **Abhishek Sivaram**, Raghunathan Rengaswamy, “Prediction Error-based Clustering Approach for Multiple- Model Learning using Statistical Testing," Engineering Applications of Artificial Intelligence 77 (2019): 125-135
 
 2. Resmi Suresh, **Abhishek Sivaram**, Venkat Venkatasubramanian,“A Hierarchical Approach for Causal Modeling of Process Systems,” Computers and Chemical Engineering 123 (2019):170-183

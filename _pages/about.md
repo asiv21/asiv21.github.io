@@ -7,3 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
+
+I am a 3rd year graduate student pursuing my PhD in Chemical Engineering at Columbia University in the City of New York. My interests include Dynamical Systems, Pattern Formation, Optimization, Data Analytics, Artificial Intelligence and Machine Learning.
+
+I am intrigued with how to incorporate model knowledge in machine learning systems, and give rise to systems which can hypothesize and test those hypothesis, sequentially and systematically. Building a notion of causality into such systems is essential for them to understand differences between correlations and causation. While it is claimed in literature that _Correlation does not imply Causation_, it is often overlooked that _**Correlations may imply Causation**_. The question really is when. 

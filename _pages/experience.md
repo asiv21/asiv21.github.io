@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-### Teaching Experience
+## Teaching Experience
 
 **Spring 2020**
 Systemic Risk, _School of Professional Studies, Columbia University_

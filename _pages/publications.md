@@ -12,7 +12,7 @@ author_profile: true
 
 3. Chinta Sivadurgaprasad, **Abhishek Sivaram**, Raghunathan Rengaswamy, “Prediction Error-based Clustering Approach for Multiple- Model Learning using Statistical Testing," Engineering Applications of Artificial Intelligence 77 (2019): 125-135
 
-##Conference Publications
+## Conference Publications
 
 1. **Abhishek Sivaram**, Laya Das, Venkat Venkatasubramanian, "How does a Deep Neural Network learn Functions?", AIChE Annual Meeting 2019
 2. Laya Das, **Abhishek Sivaram**, Venkat Venkatasubramanian, "The Nature of Fault Space Classification by Neural Networks", AIChE Annual Meeting 2019

@@ -11,7 +11,7 @@ author_profile: true
 
 **Thesis**: Causal Modeling of Process Systems for Fault Detection and Diagnosis
 
-<div style="text-align: right"> <em>Present</em></div>
+<div style="text-align: right"> <em>2017 - Present</em></div>
 
 
 <br>

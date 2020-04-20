@@ -5,17 +5,18 @@ permalink: /education/
 author_profile: true
 ---
 
+**PhD** Chemical Engineering <br><em> Columbia University in the City of New York</em> <div style="text-align: right"> <em>Present</em></div>
+**Advisor**: Prof. Venkat Venkatasubramanian
+**Thesis**: Causal Modeling of Process Systems for Fault Detection and Diagnosis
 
-<table>
-    <tr><th>Present</th><td>
-PhD Chemical Engineering, <br><em> Columbia University</em>
-</td></tr>
+_**Present**_
 
-  <tr><th>2016</th><td>
-  Bachelor (Hons) and Master of Technology Chemical Engineering, <br>
-  Minor: Systems Engineering
-  <br>
-  <em>Indian Institute of Technology Madras</em>
-</td></tr>
 
-</table>
+
+
+**Bachelor (Hons) and Master of Technology** Chemical Engineering,
+<div style="text-align: right"> <em>2011- 2016</em></div>
+
+**Minor**: Systems Engineering
+<em>Indian Institute of Technology Madras</em>
+**Thesis**: Applications of Variants of Principal Component Analysis for Biological Systems

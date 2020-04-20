@@ -5,12 +5,17 @@ permalink: /education/
 author_profile: true
 ---
 
-**PhD** Chemical Engineering <br><em> Columbia University in the City of New York</em> <div style="text-align: right"> <em>Present</em></div>
+**PhD** Chemical Engineering <br><em> Columbia University in the City of New York</em>
+<div style="text-align: right"> <em>Present</em></div>
 
 **Advisor**: Prof. Venkat Venkatasubramanian
+
 **Thesis**: Causal Modeling of Process Systems for Fault Detection and Diagnosis
 
 
+<br>
+<br>
+<br>
 
 
 

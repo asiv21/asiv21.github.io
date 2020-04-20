@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Experience
 
-<table style="width:80%">
+<table style="width:100%">
   <tr>
     <td><strong>Spring 2020</strong></td>
     <td>Systemic Risk</td>
